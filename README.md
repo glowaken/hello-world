@@ -1,2 +1,3 @@
 # hello-world
-mój pierwszy program :)
+
+pierwsza linia "kodu" :)
