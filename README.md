@@ -1,2 +1,4 @@
 # hello-world
-mój pierwszy program :)
+
+to jest edycja pierwszej galezi
+ciekawe co bedzie dalej
